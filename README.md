@@ -1,6 +1,5 @@
- # CMSIS-CMake-Project-Template
- > CMAKE CMSIS BARE-METAL TEMPLATE PROJECT FOR ARM CORTEX-M STM32 MCUS <
-
+### > CMAKE CMSIS BARE-METAL TEMPLATE PROJECT FOR ARM CORTEX-M STM32 MCUS <
+```
  FILE/DIRS STRUCTURE:
   ├── project (project source/header files located here)
   │   └── main.c/cpp
@@ -22,3 +21,4 @@
   │           └── startup_stm32xxxx.s (Startup and IRQs vector assembly file)
   │  
   └── CMakeLists.txt
+```
