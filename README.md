@@ -1,4 +1,5 @@
 # STM32-CMSIS/HAL-CMake-Template-Project
+```
 CMAKE CMSIS/HAL BARE-METAL TEMPLATE PROJECT FOR ARM CORTEX-M STM32 MCUS
 ├── project (STM32CubeIDE "Core" folder)
 │   ├── Inc
@@ -26,3 +27,4 @@ CMAKE CMSIS/HAL BARE-METAL TEMPLATE PROJECT FOR ARM CORTEX-M STM32 MCUS
 │           ├── <device>_hal.c
 │           └── etc.
 └── CMakeLists.txt
+```
